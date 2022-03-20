@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Saud
+- 👀 I’m interested in ARM, Systems, AI, AR/VR, Unix
+- 🌱 I’m currently learning AI
+- 💞️ I’m looking to collaborate on Systems
+- 📫 How to reach me ...
